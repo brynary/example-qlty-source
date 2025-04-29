@@ -1,0 +1,2 @@
+[plugins.definitions.markdownlint.drivers.lint]
+script = "markdownlint --help"
