@@ -11,3 +11,4 @@ output = "pass_fail"
 
 [[plugin]]
 name = "my-passfail"
+version = "1.0.0"
